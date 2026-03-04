@@ -1,0 +1,26 @@
+.import/
+.export/
+.export-debug/
+.godot/
+
+# Godot cache files
+*.translation
+*.mono
+*.tmp
+
+bin/
+build/
+dist/
+
+*.log
+crash_report*.txt
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+
+.mono/
+.nuget/
